@@ -1,11 +1,9 @@
-💻 Computer science and statistics student at the [University of Valladolid](https://www.inf.uva.es/en/indat/) (Spain).
+### Hi, I'm Pablo!
 
-📊 Always working with new data and turning raw data into actionable insights.
-
-🚀 Always eager to learn new technologies and languages.
-
-🔧 Working on side projects that combine software and statistics.
-
+💻 Computer science and statistics student at the [University of Valladolid](https://www.inf.uva.es/en/indat/) (Spain).<br>
+📊 Always working with new data and turning raw data into actionable insights.<br>
+🚀 Always eager to learn new technologies and languages.<br>
+🔧 Working on side projects that combine software and statistics. <br>
 🌱 Exploring artificial intelligence and data science.
 
 
